@@ -1,4 +1,4 @@
-# 3_fast_food_lists_as_stacks_and_queues
+# ex_3_fast_food_lists_as_stacks_and_queues
 You have a fast-food restaurant, and the food you are offering is previously prepared.
 Write a program that checks if you have enough food to serve lunch to all your customers. You also want to know who the client with the biggest order for that day is. 
 First, you will be given the quantity of the food you have for the day (an integer number). Next, you will be given a sequence of integers (separated by a single space), each representing the quantity of food in each order. Keep the orders in a queue.
